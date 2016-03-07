@@ -1,1 +1,2 @@
 C:\Users\student\PIS.1\PIS.1\PIS.1\bin\Debug\PIS.1.exe.config
+F:\pis\PIS.1\PIS.1\PIS.1\bin\Debug\PIS.1.exe.config
